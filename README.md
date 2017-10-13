@@ -1,4 +1,8 @@
-# reading-progress
+# vue-reading-progress
+
+> vue reading progress bar component
+
+[Demo](https://yossy0228.github.io/vue-reading-progress/)
 
 ## Local development setup
 
